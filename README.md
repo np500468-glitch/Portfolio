@@ -1,7 +1,7 @@
 # 🌐 NehaFolio — AI & Machine Learning Portfolio
 
 Welcome to my personal portfolio website — **NehaFolio**.
-<img width="1515" height="882" alt="image" src="<img width="1872" height="911" alt="image" src="https://github.com/user-attachments/assets/501e96e7-b3ba-41dc-b659-6d5dc7ec6cf0"/>
+<img width="1515" height="882" alt="image" src="<img width="1872" height="911" alt="image" src="<img width="1872" height="860" alt="image" src="https://github.com/user-attachments/assets/9b319248-43c7-4a4d-9a07-29dbff73bdbf" />
 
 
 This portfolio showcases my journey, skills, projects, and learning in the field of **Artificial Intelligence, Machine Learning, Python, and modern web technologies**.
