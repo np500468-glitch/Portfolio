@@ -1,7 +1,7 @@
-# 🌐 Neha paswan — AI & Machine Learning Portfolio
+# 🌐 Neha paswan — Aspiring AI & Machine Learning Portfolio
 
-Welcome to my personal portfolio website — **NehaFolio**.
-<img width="1515" height="882" alt="image" src="<img width="1872" height="911" alt="image" src="<img width="1872" height="860" alt="image" src="https://github.com/user-attachments/assets/9b319248-43c7-4a4d-9a07-29dbff73bdbf" />
+Welcome to my personal portfolio website — **Neha Paswan**.
+<img width="1872" height="860" alt="image" src="https://github.com/user-attachments/assets/9b319248-43c7-4a4d-9a07-29dbff73bdbf" />
 
 
 This portfolio showcases my journey, skills, projects, and learning in the field of **Artificial Intelligence, Machine Learning, Python, and modern web technologies**.
